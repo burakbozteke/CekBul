@@ -1,0 +1,30 @@
+C:\Users\Burak Can\source\repos\Çek Bul\Çek Bul\obj\Debug\Çek_Bul.Form1.resources
+C:\Users\Burak Can\source\repos\Çek Bul\Çek Bul\obj\Debug\Çek_Bul.Properties.Resources.resources
+C:\Users\Burak Can\source\repos\Çek Bul\Çek Bul\obj\Debug\Çek Bul.csproj.GenerateResource.cache
+C:\Users\Burak Can\source\repos\Çek Bul\Çek Bul\bin\Debug\Çek Bul.exe
+C:\Users\Burak Can\source\repos\Çek Bul\Çek Bul\bin\Debug\Çek Bul.pdb
+C:\Users\Burak Can\source\repos\Çek Bul\Çek Bul\obj\Debug\Çek Bul.exe
+C:\Users\Burak Can\source\repos\Çek Bul\Çek Bul\obj\Debug\Çek Bul.pdb
+C:\Users\Burak Can\Documents\Visual Studio 2015\Projects\Çek Bul\Çek Bul\bin\Debug\Çek Bul.exe
+C:\Users\Burak Can\Documents\Visual Studio 2015\Projects\Çek Bul\Çek Bul\bin\Debug\Çek Bul.pdb
+C:\Users\Burak Can\Documents\Visual Studio 2015\Projects\Çek Bul\Çek Bul\obj\Debug\Çek Bul.csprojAssemblyReference.cache
+C:\Users\Burak Can\Documents\Visual Studio 2015\Projects\Çek Bul\Çek Bul\obj\Debug\Çek_Bul.Form1.resources
+C:\Users\Burak Can\Documents\Visual Studio 2015\Projects\Çek Bul\Çek Bul\obj\Debug\Çek_Bul.Properties.Resources.resources
+C:\Users\Burak Can\Documents\Visual Studio 2015\Projects\Çek Bul\Çek Bul\obj\Debug\Çek Bul.csproj.GenerateResource.cache
+C:\Users\Burak Can\Documents\Visual Studio 2015\Projects\Çek Bul\Çek Bul\obj\Debug\Çek Bul.exe
+C:\Users\Burak Can\Documents\Visual Studio 2015\Projects\Çek Bul\Çek Bul\obj\Debug\Çek Bul.pdb
+C:\Users\Burak Can\source\repos\Çek Bul\Çek Bul\bin\Debug\Çek Bul.exe.config
+C:\Users\Burak Can\source\repos\Çek Bul\Çek Bul\obj\Debug\Çek Bul.csproj.AssemblyReference.cache
+C:\Users\Burak Can\source\repos\Çek Bul\Çek Bul\obj\Debug\Çek Bul.csproj.SuggestedBindingRedirects.cache
+C:\Users\Burak Can\source\repos\Çek Bul\Çek Bul\obj\Debug\Çek Bul.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Çek Bul\Çek Bul\bin\Debug\Çek Bul.exe.config
+C:\Users\Burak\source\repos\Çek Bul\Çek Bul\bin\Debug\Çek Bul.exe
+C:\Users\Burak\source\repos\Çek Bul\Çek Bul\bin\Debug\Çek Bul.pdb
+C:\Users\Burak\source\repos\Çek Bul\Çek Bul\obj\Debug\Çek Bul.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\Çek Bul\Çek Bul\obj\Debug\Çek Bul.csproj.SuggestedBindingRedirects.cache
+C:\Users\Burak\source\repos\Çek Bul\Çek Bul\obj\Debug\Çek_Bul.Form1.resources
+C:\Users\Burak\source\repos\Çek Bul\Çek Bul\obj\Debug\Çek_Bul.Properties.Resources.resources
+C:\Users\Burak\source\repos\Çek Bul\Çek Bul\obj\Debug\Çek Bul.csproj.GenerateResource.cache
+C:\Users\Burak\source\repos\Çek Bul\Çek Bul\obj\Debug\Çek Bul.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Çek Bul\Çek Bul\obj\Debug\Çek Bul.exe
+C:\Users\Burak\source\repos\Çek Bul\Çek Bul\obj\Debug\Çek Bul.pdb
